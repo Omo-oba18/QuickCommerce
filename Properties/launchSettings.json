@@ -4,13 +4,8 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-<<<<<<< HEAD
-      "applicationUrl": "http://localhost:56130",
-      "sslPort": 44356
-=======
       "applicationUrl": "http://localhost:49612",
       "sslPort": 44321
->>>>>>> e40425a (Add .gitignore and remove ignored files from repo)
     }
   },
   "profiles": {
@@ -19,11 +14,7 @@
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
-<<<<<<< HEAD
-      "applicationUrl": "http://localhost:5052",
-=======
       "applicationUrl": "http://localhost:5210",
->>>>>>> e40425a (Add .gitignore and remove ignored files from repo)
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -33,11 +24,7 @@
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
-<<<<<<< HEAD
-      "applicationUrl": "https://localhost:7120;http://localhost:5052",
-=======
       "applicationUrl": "https://localhost:7073;http://localhost:5210",
->>>>>>> e40425a (Add .gitignore and remove ignored files from repo)
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
