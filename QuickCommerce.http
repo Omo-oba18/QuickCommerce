@@ -1,0 +1,6 @@
+@QuickCommerce_HostAddress = http://localhost:5209
+
+GET {{QuickCommerce_HostAddress}}/api/
+Accept: application/json
+
+###
