@@ -1,12 +1,7 @@
-<<<<<<< HEAD
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 using System;
 using System.Collections.Generic;
-=======
-﻿using MongoDB.Bson;
-using MongoDB.Bson.Serialization.Attributes;
->>>>>>> e40425a (Add .gitignore and remove ignored files from repo)
 
 namespace QuickCommerce.Models
 {
@@ -24,10 +19,6 @@ namespace QuickCommerce.Models
         public DateTime CreatedAt { get; set; }
         public DateTime UpdatedAt { get; set; }
     }
-<<<<<<< HEAD
-
-=======
->>>>>>> e40425a (Add .gitignore and remove ignored files from repo)
     public class OrderItem
     {
         public string ItemId { get; set; }
